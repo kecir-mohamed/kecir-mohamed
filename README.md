@@ -1,6 +1,4 @@
 
-
-preview
 <h1 align="center">Hi 👋, I'm Mohamed Kecir</h1>
 <h3 align="center">A fourth year student at ensia</h3>
 
